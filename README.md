@@ -1,9 +1,7 @@
 # Source code of *"Graph convolutional and attention models for entity classification in multilayer networks"*
 
->The aim of this work is to generalize GNNs approaches by proposing a GNN framework for representation learning and semi-supervised classification in  multilayer networks with attributed entities, 
-and arbitrary number of layers and intra-layer and inter-layer connections between nodes.  
-We instantiated  our framework with two new formulations of [GAT](https://arxiv.org/abs/1710.10903) and [GCN](https://arxiv.org/abs/1609.02907)
-models, namely **ML-GCN** and **ML-GAT**, specifically devised for  general, attributed multilayer networks. 
+>The aim of this work is to generalize GNNs approaches by proposing a GNN framework for representation learning and semi-supervised classification in  multilayer networks with attributed entities, and arbitrary number of layers and intra-layer and inter-layer connections between nodes.  
+We instantiated  our framework with two new formulations of GAT and GCN models, namely **ML-GCN** and **ML-GAT**, specifically designed for  arbitrary, attributed multilayer networks. 
 
 ```
 Zangari, L., Interdonato, R., Calió, A., Tagarelli, A.
@@ -23,7 +21,7 @@ Crete a new folder named *\<dataset_name\>*, containing the following files:
     * **L**, the number of layers.
     * **E**, whether the multilayer graph is directed (DIRECTED) or undirected (UNDIRECTED).
     * **TYPE**, indicating the type of the input multilayer network,
-      i.e., whether it's a multiplex network (MPX) or a general multilayer network (GML).
+      i.e., whether it is a multiplex network (MPX) or a general (arbitrary) multilayer network (GML).
 
       
    For example, given an undirected multiplex graph with 20 entities, 3 layers, 
@@ -45,9 +43,9 @@ the  generic i-th row must contains the label associated with the i-th entity.
    Please note that **node identifiers** must be numeric, progressive and starting from 0. The **layers identifiers** must start with 1 and be progressive.
    
 
-4. The features matrix for the entities, which must be in csv format and with comma-separated values, if present.
+4. The features matrix for the entities, which must be in CSV format with comma as separator, if present.
 
-Note that the files described in point 1,2 and 3 are mandatory.
+Note that the files described in points 1, 2 and 3 are mandatory.
 
 ## Models execution
 To train the models, run the *train.py* script as follows:
@@ -65,7 +63,7 @@ To run with input features:
 
 ```
 
-For the list of all hyper-parameters see the utils/params.py script, please.
+For the list of all hyper-parameters, see the utils/params.py script.
 
 ## Requirements
 
