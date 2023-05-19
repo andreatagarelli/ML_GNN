@@ -1,0 +1,12 @@
+storage:
+  data: ../data/nets/
+  save_path: ../artifacts/
+  checkpoint: ./checkpoint
+
+early_stop:
+  early_stop: True
+  maximize: True
+  patience: 50
+
+pre_processing:
+  standardize: True
