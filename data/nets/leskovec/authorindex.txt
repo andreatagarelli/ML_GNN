@@ -1,0 +1,191 @@
+Michael Kearns
+Yishay Mansour
+Andrew Ng
+Dana Ron
+Michael J. Kearns
+Alice X. Zheng
+Michael I. Jordan
+Andrew McCallum
+Ronald Rosenfeld
+Tom M. Mitchell
+Daishi Harada
+Stuart J. Russell
+David M. Blei
+Janez Brank
+Jure Leskovec
+Shai Shalev-Shwartz
+Yoram Singer
+Pieter Abbeel
+Kristina Toutanova
+Christopher D. Manning
+Dragomir Anguelov
+Ben Taskar
+Vassil Chatalbashev
+Daphne Koller
+Dinkar Gupta
+Geremy Heitz
+Jon Kleinberg
+Christos Faloutsos
+David Heckerman
+Tom Berson
+Joshua Goodman
+Jeff Michels
+Ashutosh Saxena
+Mike Brzozowski
+Kendra Carattini
+Scott R. Klemmer
+Patrick Mihelich
+Jiang Hu
+Lada A. Adamic
+Bernardo A. Huberman
+Morgan Quigley
+Andreas Krause
+Carlos Guestrin
+Rajat Raina
+Einat Minkov
+William W. Cohen
+José F. Rodrigues, Jr.
+Hanghang Tong
+Agma J. M. Traina
+Rion Snow
+Daniel Jurafsky
+Aria D. Haghighi
+Masayoshi Matsuoka
+Alan Chen
+Surya P. N. Singh
+Adam Coates
+Sebastian Thrun
+Susan Dumais
+Eric Horvitz
+Ted Kremenek
+Paul Twohey
+Godmar Back
+Dawson Engler
+Alexis Battle
+Honglak Lee
+Benjamin Packer
+Jeanne VanBriesen
+Natalie Glance
+Sung H. Chung
+Justin Driemeyer
+Kevin J. Lang
+Anirban Dasgupta
+Michael W. Mahoney
+J. Zico Kolter
+Yi Gu
+Charles DuHadway
+Lars Backstrom
+Ravi Kumar
+Andrew Tomkins
+Alexander Tuzhilin
+David Jensen
+Gueorgi Kossinets
+Min Sun
+Jure Ferlez
+Dunja Mladenic
+Marko Grobelnik
+Chuan-Sheng Foo
+Chuong B. Do
+Roger Grosse
+Rajesh Ranganath
+Anand Madhavan
+Sun-In Lee
+Jenny Rose Finkel
+Brendan O'Connor
+Natasa Milic-Frayling
+Benjamin Sapp
+Lawson L. S. Wong
+Stephen Gould
+Joakim Arfvidsson
+Adrian Kaehler
+Marius Messner
+Gary Bradski
+Paul Baumstarck
+Sukwon Chung
+Anna Petrovskaya
+Jamie Schulte
+Alex Teichman
+Siddharth Batra
+Ellen Klingbeil
+Quoc Le
+Ashley Wellman
+Youngjun Kim
+Kaijen Hsiao
+Paul Nangeroni
+Manfred Huber
+Quoc V. Le
+Rion Langley Snow
+Daniel Huttenlocher
+Deepayan Chakrabarti
+Zoubin Ghahramani
+Michael Mahoney
+Xiaolin Shi
+Daniel A. McFarland
+Manuel Gomez Rodriguez
+U. Kang
+Charalampos E. Tsourakakis
+Ana Paula Appel
+Jaewon Yang
+Eldar Sadikov
+Montserrat Medina
+Hector Garcia-Molina
+Amr El Abaddi
+Soumen Chakrabarti
+Alejandros Jaimes
+Simla Ceyhan
+Prem Melville
+Foster Provost
+Stephen Guo
+Mengqiu Wang
+Andrew L. Maas
+Raymond E. Daly
+Peter T. Pham
+Dan Huang
+Christopher Potts
+Eunjoon Cho
+Seth A. Myers
+Blake Carpenter
+Carl Case
+Sanjeev Satheesh
+Bipin Suresh
+Tao Wang
+David J. Wu
+Michael Jordan
+Manuel Gomez-Rodriguez
+Ajit Singh
+Sanjay Ram Kairam
+Dan J. Wang
+Ashton Anderson
+Richard Socher
+Jeffrey Pennington
+Eric H. Huang
+Robert West
+Chenguang Zhu
+Brody Huval
+Julian McAuley
+Bernhard Schölkopf
+Dan Jurafsky
+Dafna Shahaf
+Caroline Suen
+Jeff Jacobs
+Heidi Wang
+Cristian Danescu-Niculescu-Mizil
+Julian John McAuley
+Sandy Huang
+Chantat Eksombatchai
+Rok Sosic
+Paul Bennett
+Lee Giles
+Alon Halevy
+Jiawei Han
+Marti Hearst
+Aju Thalappillil Scaria
+Rose Marie Philip
+Julian Mcauley
+Justin Cheng
+Lada Adamic
+P. Alex Dow
+Jon Michael Kleinberg
+Paea LePendu
+Nigam Shah
+Christina Brandt

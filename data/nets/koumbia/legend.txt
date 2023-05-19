@@ -1,0 +1,2 @@
+1 = Crop
+2 = No Crop 
