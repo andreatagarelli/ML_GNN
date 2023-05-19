@@ -6,7 +6,7 @@ We instantiated  our framework with two new formulations of [GAT](https://arxiv.
 models, namely **ML-GCN** and **ML-GAT**, specifically devised for  general, attributed multilayer networks. 
 
 ```
-Zangari, L., Interdonato, R., Calió, A., Tagarelli.
+Zangari, L., Interdonato, R., Calió, A., Tagarelli, A.
 Graph convolutional and attention models for entity classification in multilayer networks.
 Appl Netw Sci 6, 87 (2021). https://doi.org/10.1007/s41109-021-00420-4.
 ```
